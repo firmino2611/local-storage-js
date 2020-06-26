@@ -1,5 +1,5 @@
 {
-  "name": "local-storage-js",
+  "name": "local-storage-firmino",
   "version": "1.0.0",
   "description": "Package for storage in localStorage of the browser, already has the conversion of objects to string and string to object again",
   "main": "src/index.js",
