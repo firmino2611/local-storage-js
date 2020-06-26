@@ -1,6 +1,9 @@
 # local-storage-js
 Package for storage in localStorage of the browser, already has the conversion of objects to string and string to object again
-
+### Install
+```javascript 
+npm install local-storage-firmino
+``` 
 ### Methods
 
 Code example:
@@ -16,6 +19,9 @@ Storage.get('key')
 Storage.delete('key')
 // Verify if exists the key, return true if exists
 Storage.exists('key')
+// end
+
+
 
 
 
