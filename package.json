@@ -1,0 +1,26 @@
+{
+  "name": "local-storage-js",
+  "version": "1.0.0",
+  "description": "Package for storage in localStorage of the browser, already has the conversion of objects to string and string to object again",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/firmino2611/local-storage-js.git"
+  },
+  "keywords": [
+    "localstorage",
+    "storage",
+    "window.localstorage",
+    "JSON.stringFy",
+    "JSON.parse"
+  ],
+  "author": "Lucas Firmino",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/firmino2611/local-storage-js/issues"
+  },
+  "homepage": "https://github.com/firmino2611/local-storage-js#readme"
+}
